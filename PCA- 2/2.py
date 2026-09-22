@@ -1,0 +1,8 @@
+n = input("Enter a string: ")
+print("Original String:", n)
+print("Uppercase:", n.upper())           
+print("Lowercase:", n.lower())           
+print("Capitalized:", n.capitalize())    
+print("Title Case:", n.title())          
+print("Swap Case:", n.swapcase())        
+print("Casefold:", n.casefold())
